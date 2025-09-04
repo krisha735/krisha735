@@ -1,23 +1,99 @@
-# 💫 About Me:
-🧑‍💻 About me<br><br>🔐 Cybersecurity enthusiast who enjoys breaking (and fixing) things ethically<br><br>🧪 Currently building: Smart Irrigation (Arduino + soil moisture sensor + relay + pump)<br><br>📚 Also polishing my Data Science fundamentals (Python, pandas, scikit‑learn)<br><br>💡 Interests: web app security, blue team tooling, ML-for-security, automation<br><br>🗓️ 2025 goals: ship 3 solid projects, contribute to 2 open-source repos, and complete a SOC/blue-team lab series<br><br>🧰 Tech Stack<br><br>
+<h1 align="center">Hi, I'm Krisha 👋</h1>
+<p align="center">B.CompSc (Hons) @ Taylor's University • Cybersecurity major • Data Science complementary major • Based in Johor Bahru, MY</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/nkrisha735) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishanandakumar735@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krisha735&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krisha735&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krisha735&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krisha735&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=krisha735&icon=0&color=0" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/krisha735?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krisha735&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--  -->
+## 💫 About Me
+
+<table><tr><td style="border-left: 5px solid #f39c12; padding: 10px;">
+
+🔐 **Cybersecurity enthusiast** who enjoys breaking (and fixing) things ethically.<br><br>
+🧪 Currently building: **Smart Irrigation** (Arduino + soil moisture sensor + relay + pump).<br><br>
+📚 Polishing my **Data Science** fundamentals (Python, pandas, scikit‑learn).<br><br>
+💡 Interests: web app security, blue team tooling, ML-for-security, automation.<br><br>
+🗓️ 2025 goals: ship 3 solid projects, contribute to 2 open-source repos, and complete a SOC/blue-team lab series.
+
+</td></tr></table>
+
+---
+
+## 🌐 Socials
+
+<table><tr><td style="border-left: 5px solid #2980b9; padding: 10px;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nkrisha735)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:krishanandakumar735@gmail.com)
+
+</td></tr></table>
+
+---
+
+## 💻 Tech Stack
+
+<table><tr><td style="border-left: 5px solid #27ae60; padding: 10px;">
+
+**Languages:** Python, C, C++, Java, JavaScript, SQL, Bash
+**Cybersecurity:** Wireshark, Burp Suite, nmap, OWASP ZAP
+**Data:** Jupyter, pandas, NumPy, scikit‑learn
+**Hardware/IoT:** Arduino, sensors, relays, basic electronics
+**Other:** Git & GitHub, Linux
+
+### Badges
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-004F9F?style=for-the-badge\&logo=nmap\&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+</td></tr></table>
+
+---
+
+## 📊 GitHub Stats
+
+<table><tr><td style="border-left: 5px solid #8e44ad; padding: 10px;">
+
+![](https://github-readme-stats.vercel.app/api?username=krisha735\&theme=merko\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://streak-stats.demolab.com?user=krisha735\&theme=merko\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krisha735\&theme=merko\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+</td></tr></table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<table><tr><td style="border-left: 5px solid #c0392b; padding: 10px;">
+
+![](https://github-profile-trophy.vercel.app/?username=krisha735\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+
+</td></tr></table>
+
+---
+
+## ✍️ Random Dev Quote
+
+<table><tr><td style="border-left: 5px solid #16a085; padding: 10px;">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+</td></tr></table>
+
+---
+
+<sub>Last updated: 2025‑09‑04</sub>

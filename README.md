@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Krisha 👋</h1>
-<p align="center">B.CompSc (Hons) @ Taylor's University • Cybersecurity major • Data Science complementary major • Based in Johor Bahru, MY</p>
+<p align="center">
+  🎓 B.CompSc (Hons) @ Taylor's University • Cybersecurity major • Data Science complementary major (Sept 2025 intake - Current) <br>
+  🎓 Diploma in Computer Science @ INTI International University (Completed, 2023-2025) <br>
+  📍 Based in Johor Bahru, MY
+</p>
 
 ---
 

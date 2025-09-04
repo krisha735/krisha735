@@ -7,11 +7,10 @@
 
 <table><tr><td style="border-left: 5px solid #f39c12; padding: 10px;">
 
-🔐 **Cybersecurity enthusiast** who enjoys breaking (and fixing) things ethically.<br><br>
-🧪 Currently building: **Smart Irrigation** (Arduino + soil moisture sensor + relay + pump).<br><br>
-📚 Polishing my **Data Science** fundamentals (Python, pandas, scikit‑learn).<br><br>
+🔐 **Cybersecurity enthusiast** who enjoys diving and discover  ethically.<br><br>
+🧪 Project: **Smart Farming Solution using Arduino with Histogram Oriented Gradients (HOG).** (Arduino Real Time Sensor Data + scikit-learn + python + HOG Algorithms).<br><br>
+📚 Love to keep updated with tech info and as well polishing my **Data Science** fundamentals (Python, pandas, scikit‑learn).<br><br>
 💡 Interests: web app security, blue team tooling, ML-for-security, automation.<br><br>
-🗓️ 2025 goals: ship 3 solid projects, contribute to 2 open-source repos, and complete a SOC/blue-team lab series.
 
 </td></tr></table>
 

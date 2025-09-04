@@ -25,9 +25,9 @@
 
 <table><tr><td style="border-left: 5px solid #27ae60; padding: 10px;">
 
-**Languages:** Python, C, C++, Java, JavaScript, SQL, Bash
-**Cybersecurity:** Wireshark, Burp Suite, nmap, OWASP ZAP
-**Data:** Jupyter, pandas, NumPy, scikit‑learn
+**Languages:** Python, C, C++, Java, JavaScript, SQL
+**Cybersecurity:** Wireshark
+**Data:** Pandas, NumPy, scikit‑learn
 **Hardware/IoT:** Arduino, sensors, relays, basic electronics
 **Other:** Git & GitHub, Linux
 
@@ -37,11 +37,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge\&logo=burpsuite\&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-004F9F?style=for-the-badge\&logo=nmap\&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)

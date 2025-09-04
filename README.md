@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Krisha 👋</h1>
 <p align="center">B.CompSc (Hons) @ Taylor's University • Cybersecurity major • Data Science complementary major • Based in Johor Bahru, MY</p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=krisha735&icon=0&color=0" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/krisha735?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
 ---
 
 ## 💫 About Me

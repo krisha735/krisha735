@@ -13,7 +13,7 @@
 
 🔐 **Cybersecurity enthusiast** who enjoys diving and discover  ethically.<br><br>
 🧪 Project: **Smart Farming Solution using Arduino with Histogram Oriented Gradients (HOG).** (Arduino Real Time Sensor Data + scikit-learn + python + HOG Algorithms).<br><br>
-📚 Love to keep updated with tech info and as well polishing my **Data Science** fundamentals (Python, pandas, scikit‑learn).<br><br>
+📚 Love to keep updated with tech info and polishing my **Data Science** fundamentals (Python, pandas, scikit‑learn).<br><br>
 💡 Interests: web app security, blue team tooling, ML-for-security, automation.<br><br>
 
 </td></tr></table>

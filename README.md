@@ -16,16 +16,9 @@
 </td></tr></table>
 
 ---
-
 ## 🌐 Socials
-
-<table><tr><td style="border-left: 5px solid #2980b9; padding: 10px;">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nkrisha735)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:krishanandakumar735@gmail.com)
-
-</td></tr></table>
-
 ---
 
 ## 💻 Tech Stack

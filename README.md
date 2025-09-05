@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <table><tr><td style="border-left: 5px solid #8e44ad; padding: 10px;">
 

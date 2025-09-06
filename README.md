@@ -52,35 +52,15 @@
 ---
 
 ## 📊 GitHub Statistics
-
-<table><tr><td style="border-left: 5px solid #8e44ad; padding: 10px;">
-
-![](https://github-readme-stats.vercel.app/api?username=krisha735\&theme=merko\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://streak-stats.demolab.com?user=krisha735\&theme=merko\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krisha735\&theme=merko\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
-</td></tr></table>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krisha735&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krisha735&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krisha735&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=krisha735&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<table><tr><td style="border-left: 5px solid #c0392b; padding: 10px;">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://github-profile-trophy.vercel.app/?username=krisha735\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
-
-</td></tr></table>
-
----
-
-## ✍️ Random Dev Quote
-
-<table><tr><td style="border-left: 5px solid #16a085; padding: 10px;">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
-</td></tr></table>
-
----
-
-<sub>Last updated: 2025‑09‑04</sub>
+<!-- -->
